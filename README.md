@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">Recently i've mostly done low level dev, but I have done higher level stuff as well</h3>
+<h3 align="center">Recently I've mostly done low level dev, but I have done higher level stuff as well</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electrodeyt&label=Profile%20views&color=0e75b6&style=flat" alt="electrodeyt" /> </p>
 
