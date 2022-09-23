@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">Recently I've mostly done low level dev, but I have done higher level stuff as well</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electrodeyt&label=Profile%20views&color=0e75b6&style=flat" alt="electrodeyt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=electrodeyt" alt="electrodeyt" /></a> </p>
 
-- 🔭 I’m currently working on [hOS](https://github.com/electrodeyt/hOS)
-
-- 🤝 I’m looking for help with **making a driver framework**
+- 🔭 I’m currently working on various things, including a couple Ubuntu Touch apps
 
 - 📫 How to reach me **electrodeyt@gmail.com, Discord: Electrode#6669**
 
